@@ -6,8 +6,8 @@ A new Flutter project.
 
 Its just a login page
  
-which is connected with a firebase 
+Which is connected with firebase 
 
 I will update the UI very shortly
 
-#use youor own jassin file in android/app tht is given by firebase else it wiil give an error for you
+# Use youor own jassin file in android/app tht is given by firebase else it wiil give an error for you
