@@ -49,12 +49,3 @@ class _WelcomeState extends State<Welcome> {
     Navigator.push(context, MaterialPageRoute(builder: (context) => SignUp(),fullscreenDialog: true));
   }
 }
-
-class AnotherClass extends StatelessWidget {
-  @override
-  Widget build(BuildContext context) {
-    return Center(
-      child: Text('Hello'),
-    );
-  }
-}
